@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148569615349",
+    "project_id": "shoes-e2731",
+    "storage_bucket": "shoes-e2731.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148569615349:android:6b1654854836f4a0f78ebc",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148569615349-v991r5j6fgs5k12ek5kvdj8vntcj981m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "2a325757eeaa9cbc0c2d4943b3bc637b70b1efab"
+          }
+        },
+        {
+          "client_id": "148569615349-mq7da5s5uhr5e7gp2gf2a7jca4pj0r1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwA5iwthVj5LptXUaYGlr88Z17oNy57QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148569615349-mq7da5s5uhr5e7gp2gf2a7jca4pj0r1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
