@@ -29,20 +29,6 @@ This project is built using the latest technologies for modern mobile app develo
 - **[Firebase](https://firebase.google.com/):** For backend services including:
   - **Firebase Authentication** for user management.
 - **[Bloc / Cubit](https://bloclibrary.dev/):** For predictable and scalable state management.
-
----
-
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-Make sure you have the Flutter SDK installed on your machine.
-- [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
-
-### Installation
-
-1. Clone the repo
+one the repo
    ```sh
    git clone [https://github.com/20Mahmoud06/Kutuku.git](https://github.com/20Mahmoud06/Kutuku.git)
