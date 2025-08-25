@@ -31,4 +31,3 @@ This project is built using the latest technologies for modern mobile app develo
 - **[Bloc / Cubit](https://bloclibrary.dev/):** For predictable and scalable state management.
 one the repo
    ```sh
-   git clone [https://github.com/20Mahmoud06/Kutuku.git](https://github.com/20Mahmoud06/Kutuku.git)
